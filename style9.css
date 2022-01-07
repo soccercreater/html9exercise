@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  color: red;
+}
+
+.fab {
+  font-size: 32px;
+}
+
+.position {
+  position: absolute;
+  top: 100px;
+  right: 40px;
+}
+
+header {
+  position: relative;
+}
